@@ -1,0 +1,9 @@
+<update-bundle version="1.0" xmlns="http://xmlns.oracle.com/jdeveloper/updatebundle">
+  <update id="{GLOBAL ID}" xmlns="http://xmlns.oracle.com/jdeveloper/update">
+    <name>{KM NAME}</name>
+    <version>{KM VERSION}</version>
+    <author>{AUTHOR}</author>
+    <author-url>{URL}</author-url>
+    <description>{DESCRIPTION}</description>
+  </update>
+</update-bundle>

@@ -1,0 +1,7 @@
+6335722^Company One^First Street   999       San Jose       95129USCA650-801-6250
+       ^Oracle^Bridge Parkway 1600      Redwood Shores 94065USCA650-506-7000
+001|Oracle Data Integrator EE|20000,2,+40000+
+002|Application Adapter for ODI|10000,5,+50000+
+003|BPEL Process Manager Enterprise Edition|20000,2,+40000+
+004|BPEL Process Manager Standard Edition|10000,5,+50000+
+005|BPEL Process Manager Developer Edition|1000,20,+20000+#110000
